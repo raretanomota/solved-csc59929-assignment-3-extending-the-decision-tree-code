@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-csc59929-assignment-3-extending-the-decision-tree-code
+<br>
+Assignment 3• Compete the programming exercise described in the following charts.• Start looking for an interesting dataset for your project.Programming Exercise• Download the Decision Tree Code that we reviewed in class.• Extend the Code to include the case of learning a rhombus with interior angles of 45° and 135°.2Programming Exercise• Discuss your findings.• Include all of your discussion in your .ipynb file and submit the file through Blackboard. The name of your file should belastname_firstname_AS03.ipynb
